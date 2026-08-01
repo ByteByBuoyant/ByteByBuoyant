@@ -2,9 +2,9 @@
 
 <!-- ✨ Animated Cyber Banner ✨ -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ByteByBuoyant/ByteByBuoyant/main/samriddhi-banner.svg?v=2">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ByteByBuoyant/ByteByBuoyant/main/samriddhi-banner-light.svg?v=2">
-  <img src="https://raw.githubusercontent.com/ByteByBuoyant/ByteByBuoyant/main/samriddhi-banner.svg?v=2" alt="Samriddhi — AI &amp; ML Engineer" width="100%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ByteByBuoyant/ByteByBuoyant/main/samriddhi-banner.svg?v=3">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ByteByBuoyant/ByteByBuoyant/main/samriddhi-banner-light.svg?v=3">
+  <img src="https://raw.githubusercontent.com/ByteByBuoyant/ByteByBuoyant/main/samriddhi-banner.svg?v=3" alt="Samriddhi — AI &amp; ML Engineer" width="100%"/>
 </picture>
 
 </div>
@@ -16,7 +16,7 @@
 <td width="38%" align="center" valign="middle">
 
 <!-- 🪪 Swinging Lanyard ID Card (React Bits style, pure SVG) -->
-<img src="https://raw.githubusercontent.com/ByteByBuoyant/ByteByBuoyant/main/samriddhi-lanyard.svg?v=2" alt="Samriddhi ID badge" width="330"/>
+<img src="https://raw.githubusercontent.com/ByteByBuoyant/ByteByBuoyant/main/samriddhi-lanyard.svg?v=3" alt="Samriddhi ID badge" width="330"/>
 
 </td>
 <td width="62%" valign="middle">
@@ -62,19 +62,62 @@
 
 <br/>
 
-# 📈 GitHub Analytics
+# 📊 GitHub Stats &amp; Graphs
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ByteByBuoyant&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Samriddhi's GitHub Stats" width="48%"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ByteByBuoyant&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%"/>
 </p>
 
+<br/>
+
+# 💗 Contribution Graph &amp; Trophies
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ByteByBuoyant&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="97%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ByteByBuoyant&theme=react-dark&bg_color=170e28&color=ff7eb6&line=38bdf8&point=c084fc&area=true&hide_border=true" alt="Contribution Graph" width="98%"/>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ByteByBuoyant/ByteByBuoyant/main/samriddhi-trophies.svg?v=1" alt="Samriddhi Trophies" width="98%"/>
+</p>
+
+<br/>
+
+# 🐍 Watch the snake eat my contributions
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ByteByBuoyant/ByteByBuoyant/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ByteByBuoyant/ByteByBuoyant/output/github-contribution-grid-snake-light.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ByteByBuoyant/ByteByBuoyant/output/github-contribution-grid-snake.svg" width="98%">
+  </picture>
+</p>
+
+<br/>
+
+# 📫 Let's Connect
+
+<p align="center">
+  <a href="mailto:samriddhigururani@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-E01E5A?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://github.com/ByteByBuoyant">
+    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://linkedin.com">
+    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://instagram.com">
+    <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ByteByBuoyant&color=ff7eb6&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views"/>
 </p>
 
 <br/>
 
 <div align="center">
-  <sub>Designed with ❤️ for <a href="https://github.com/ByteByBuoyant">ByteByBuoyant</a></sub>
+  ⭐ <i>Always learning, always building.</i> 💗
 </div>
