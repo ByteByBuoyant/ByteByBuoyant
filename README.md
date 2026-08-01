@@ -2,9 +2,9 @@
 
 <!-- ✨ Animated Cyber Banner with Light/Dark Mode Support ✨ -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ByteByBuoyant/ByteByBuoyant/main/assets/samriddhi-readme-dark.svg?v=900">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ByteByBuoyant/ByteByBuoyant/main/assets/samriddhi-readme-light.svg?v=900">
-  <img alt="Samriddhi Gururani banner" src="https://raw.githubusercontent.com/ByteByBuoyant/ByteByBuoyant/main/assets/samriddhi-readme-dark.svg?v=900" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/samriddhi-readme-dark.svg?v=1000">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/samriddhi-readme-light.svg?v=1000">
+  <img src="./assets/samriddhi-readme-dark.svg?v=1000" alt="Samriddhi Gururani banner" width="100%"/>
 </picture>
 
 </div>
@@ -17,7 +17,7 @@
 
 <!-- 🪪 Swinging Lanyard ID Card (React Bits style, pure SVG) -->
 <a href="https://github.com/ByteByBuoyant">
-  <img src="https://raw.githubusercontent.com/ByteByBuoyant/ByteByBuoyant/main/samriddhi-lanyard.svg?v=900" alt="Samriddhi ID badge" width="330"/>
+  <img src="./samriddhi-lanyard.svg?v=1000" alt="Samriddhi ID badge" width="330"/>
 </a>
 
 </td>
@@ -67,8 +67,8 @@
 # 📊 GitHub Stats &amp; Graphs
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ByteByBuoyant/ByteByBuoyant/main/samriddhi-stats.svg?v=900" alt="Samriddhi's GitHub Stats" width="48%"/>
-  <img src="https://raw.githubusercontent.com/ByteByBuoyant/ByteByBuoyant/main/samriddhi-top-langs.svg?v=900" alt="Top Languages" width="48%"/>
+  <img src="./samriddhi-stats.svg?v=1000" alt="Samriddhi's GitHub Stats" width="48%"/>
+  <img src="./samriddhi-top-langs.svg?v=1000" alt="Top Languages" width="48%"/>
 </p>
 
 <br/>
@@ -80,7 +80,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ByteByBuoyant/ByteByBuoyant/main/samriddhi-trophies.svg?v=900" alt="Samriddhi Trophies" width="98%"/>
+  <img src="./samriddhi-trophies.svg?v=1000" alt="Samriddhi Trophies" width="98%"/>
 </p>
 
 <br/>
@@ -89,9 +89,9 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ByteByBuoyant/ByteByBuoyant/output/github-snake-pink.svg?v=900">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ByteByBuoyant/ByteByBuoyant/output/github-snake-pink.svg?v=900">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ByteByBuoyant/ByteByBuoyant/main/samriddhi-snake.svg?v=900" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ByteByBuoyant/ByteByBuoyant/output/github-snake-pink.svg?v=1000">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ByteByBuoyant/ByteByBuoyant/output/github-snake-pink.svg?v=1000">
+    <img alt="github contribution grid snake animation" src="./samriddhi-snake.svg?v=1000" width="100%">
   </picture>
 </p>
 
