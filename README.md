@@ -2,9 +2,9 @@
 
 <!-- ✨ Animated Cyber Banner ✨ -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="samriddhi-banner.svg">
-  <source media="(prefers-color-scheme: light)" srcset="samriddhi-banner-light.svg">
-  <img src="samriddhi-banner.svg" alt="Samriddhi — AI &amp; ML Engineer" width="100%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ByteByBuoyant/ByteByBuoyant/main/samriddhi-banner.svg?v=100">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ByteByBuoyant/ByteByBuoyant/main/samriddhi-banner-light.svg?v=100">
+  <img src="https://raw.githubusercontent.com/ByteByBuoyant/ByteByBuoyant/main/samriddhi-banner.svg?v=100" alt="Samriddhi — AI &amp; ML Engineer" width="100%"/>
 </picture>
 
 </div>
@@ -16,7 +16,9 @@
 <td width="38%" align="center" valign="middle">
 
 <!-- 🪪 Swinging Lanyard ID Card (React Bits style, pure SVG) -->
-<img src="samriddhi-lanyard.svg" alt="Samriddhi ID badge" width="330"/>
+<a href="https://github.com/ByteByBuoyant">
+  <img src="https://raw.githubusercontent.com/ByteByBuoyant/ByteByBuoyant/main/samriddhi-lanyard.svg?v=100" alt="Samriddhi ID badge" width="330"/>
+</a>
 
 </td>
 <td width="62%" valign="middle">
@@ -78,7 +80,7 @@
 </p>
 
 <p align="center">
-  <img src="samriddhi-trophies.svg" alt="Samriddhi Trophies" width="98%"/>
+  <img src="https://raw.githubusercontent.com/ByteByBuoyant/ByteByBuoyant/main/samriddhi-trophies.svg?v=100" alt="Samriddhi Trophies" width="98%"/>
 </p>
 
 <br/>
@@ -86,7 +88,7 @@
 # 🐍 Watch the snake eat my contributions
 
 <p align="center">
-  <img src="samriddhi-snake.svg" alt="Samriddhi Contribution Grid Snake" width="98%"/>
+  <img src="https://raw.githubusercontent.com/ByteByBuoyant/ByteByBuoyant/main/samriddhi-snake.svg?v=100" alt="Samriddhi Contribution Grid Snake" width="98%"/>
 </p>
 
 <br/>
