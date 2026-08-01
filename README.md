@@ -2,9 +2,9 @@
 
 <!-- ✨ Animated Cyber Banner ✨ -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ByteByBuoyant/ByteByBuoyant/main/samriddhi-banner.svg?v=102">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ByteByBuoyant/ByteByBuoyant/main/samriddhi-banner-light.svg?v=102">
-  <img src="https://raw.githubusercontent.com/ByteByBuoyant/ByteByBuoyant/main/samriddhi-banner.svg?v=102" alt="Samriddhi — AI &amp; ML Engineer" width="100%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ByteByBuoyant/ByteByBuoyant/main/samriddhi-banner.svg?v=103">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ByteByBuoyant/ByteByBuoyant/main/samriddhi-banner-light.svg?v=103">
+  <img src="https://raw.githubusercontent.com/ByteByBuoyant/ByteByBuoyant/main/samriddhi-banner.svg?v=103" alt="Samriddhi — AI &amp; ML Engineer" width="100%"/>
 </picture>
 
 </div>
@@ -17,7 +17,7 @@
 
 <!-- 🪪 Swinging Lanyard ID Card (React Bits style, pure SVG) -->
 <a href="https://github.com/ByteByBuoyant">
-  <img src="https://raw.githubusercontent.com/ByteByBuoyant/ByteByBuoyant/main/samriddhi-lanyard.svg?v=102" alt="Samriddhi ID badge" width="330"/>
+  <img src="https://raw.githubusercontent.com/ByteByBuoyant/ByteByBuoyant/main/samriddhi-lanyard.svg?v=103" alt="Samriddhi ID badge" width="330"/>
 </a>
 
 </td>
@@ -80,7 +80,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ByteByBuoyant/ByteByBuoyant/main/samriddhi-trophies.svg?v=102" alt="Samriddhi Trophies" width="98%"/>
+  <img src="https://raw.githubusercontent.com/ByteByBuoyant/ByteByBuoyant/main/samriddhi-trophies.svg?v=103" alt="Samriddhi Trophies" width="98%"/>
 </p>
 
 <br/>
@@ -88,7 +88,7 @@
 # 🐍 Watch the snake eat my contributions
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ByteByBuoyant/ByteByBuoyant/main/samriddhi-snake.svg?v=102" alt="Samriddhi Contribution Grid Snake" width="98%"/>
+  <img src="https://raw.githubusercontent.com/ByteByBuoyant/ByteByBuoyant/main/samriddhi-snake.svg?v=103" alt="Samriddhi Contribution Grid Snake" width="98%"/>
 </p>
 
 <br/>
