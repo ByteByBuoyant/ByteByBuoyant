@@ -2,9 +2,9 @@
 
 <!-- ✨ Animated Cyber Banner with Light/Dark Mode Support ✨ -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/samriddhi-readme-dark.svg?v=1200">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/samriddhi-readme-light.svg?v=1200">
-  <img src="./assets/samriddhi-readme-dark.svg?v=1200" alt="Samriddhi Gururani banner" width="100%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/samriddhi-readme-dark.svg?v=1300">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/samriddhi-readme-light.svg?v=1300">
+  <img src="./assets/samriddhi-readme-dark.svg?v=1300" alt="Samriddhi Gururani banner" width="100%"/>
 </picture>
 
 </div>
@@ -17,7 +17,7 @@
 
 <!-- 🪪 Swinging Lanyard ID Card (React Bits style, pure SVG) -->
 <a href="https://github.com/ByteByBuoyant">
-  <img src="./assets/samriddhi-lanyard.svg?v=1200" alt="Samriddhi ID badge" width="330"/>
+  <img src="./assets/samriddhi-lanyard.svg?v=1300" alt="Samriddhi ID badge" width="330"/>
 </a>
 
 </td>
@@ -67,8 +67,8 @@
 # 📊 GitHub Stats &amp; Graphs
 
 <p align="center">
-  <img src="./samriddhi-stats.svg?v=1200" alt="Samriddhi's GitHub Stats" width="48%"/>
-  <img src="./samriddhi-top-langs.svg?v=1200" alt="Top Languages" width="48%"/>
+  <img src="./samriddhi-stats.svg?v=1300" alt="Samriddhi's GitHub Stats" width="48%"/>
+  <img src="./samriddhi-top-langs.svg?v=1300" alt="Top Languages" width="48%"/>
 </p>
 
 <br/>
@@ -80,7 +80,7 @@
 </p>
 
 <p align="center">
-  <img src="./samriddhi-trophies.svg?v=1200" alt="Samriddhi Trophies" width="98%"/>
+  <img src="./samriddhi-trophies.svg?v=1300" alt="Samriddhi Trophies" width="98%"/>
 </p>
 
 <br/>
@@ -89,9 +89,9 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ByteByBuoyant/ByteByBuoyant/output/github-snake-pink.svg?v=1200">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ByteByBuoyant/ByteByBuoyant/output/github-snake-pink.svg?v=1200">
-    <img alt="github contribution grid snake animation" src="./samriddhi-snake.svg?v=1200" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ByteByBuoyant/ByteByBuoyant/output/github-snake-pink.svg?v=1300">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ByteByBuoyant/ByteByBuoyant/output/github-snake-pink.svg?v=1300">
+    <img alt="github contribution grid snake animation" src="./samriddhi-snake.svg?v=1300" width="100%">
   </picture>
 </p>
 
