@@ -111,8 +111,8 @@ text{font-family:'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace}
 <text clip-path="url(#cHi)" x="48" y="114" font-size="24" font-weight="bold" fill="#e6edf3">Hi, I'm 👋</text>
 
 <!-- Name: Megha Mittal (Pacifico outlines, per-letter pop, animated gradient) -->
-<g transform="translate(48,140)">
-  <text x="0" y="48" font-size="42" font-weight="900" fill="url(#nameg)" filter="url(#glow)" letter-spacing="1">Samriddhi Gururani</text>
+<g transform="translate(48,152)" fill="url(#nameg)" filter="url(#glow)">
+  <text x="0" y="44" font-size="44" font-weight="900" font-family="'Pacifico', 'Brush Script MT', 'Dancing Script', cursive, sans-serif" letter-spacing="1">Samriddhi Gururani 💗</text>
 </g>
 <g class="hb" style="animation-delay:3s"><path d="M410 168 c-5-11-21-9-21 4 0 9 12 16 21 22 9-6 21-13 21-22 0-13-16-15-21-4z" fill="#ff7eb6" opacity=".95"/></g>
 
@@ -128,19 +128,21 @@ text{font-family:'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace}
   <rect x="48" y="262" width="380" height="72" rx="8" fill="#1c1230" stroke="#3b2a5c" stroke-width="1"/>
   <rect x="48" y="266" width="3.5" height="64" rx="1.5" fill="#ff7eb6"/>
 </g>
-<text clip-path="url(#q1)" x="76" y="292" font-size="15" fill="#e6edf3">Engineering intelligence,</text>
-<text clip-path="url(#q2)" x="76" y="318" font-size="15"><tspan fill="#e6edf3">line by </tspan><tspan fill="#38bdf8" font-weight="bold">line</tspan><tspan fill="#e6edf3"> with purpose. ✨</tspan></text>
+<text clip-path="url(#q1)" x="76" y="292" font-size="15" fill="#e6edf3">I don't just write code,</text>
+<text clip-path="url(#q2)" x="76" y="318" font-size="15"><tspan fill="#e6edf3">I </tspan><tspan fill="#38bdf8" font-weight="bold">build</tspan><tspan fill="#e6edf3"> intelligence. ✨</tspan></text>
 <g class="tw" style="animation-delay:.9s"><path d="M400 288l2.4 6.4 6.4 2.4-6.4 2.4-2.4 6.4-2.4-6.4-6.4-2.4 6.4-2.4z" fill="#f0abfc"/></g>
 
 <!-- Tech I Know -->
 <text class="ii" x="48" y="374" font-size="15" fill="#c084fc" font-weight="bold" style="animation:fadeIn .4s ease 4.6s forwards">🧩 Tech I Know</text>
-<g class="pill" style="animation:fadeIn .3s ease 4.8s forwards"><rect x="48" y="388" width="76" height="26" rx="13" fill="rgba(227,79,38,.13)" stroke="#e34f26" stroke-width="1"/><text x="86" y="405" text-anchor="middle" font-size="12" fill="#ff8a65" font-weight="bold">HTML</text></g>
-<g class="pill" style="animation:fadeIn .3s ease 4.9s forwards"><rect x="132" y="388" width="70" height="26" rx="13" fill="rgba(38,119,189,.15)" stroke="#38bdf8" stroke-width="1"/><text x="167" y="405" text-anchor="middle" font-size="12" fill="#7dd3fc" font-weight="bold">CSS</text></g>
-<g class="pill" style="animation:fadeIn .3s ease 5s forwards"><rect x="210" y="388" width="110" height="26" rx="13" fill="rgba(247,223,30,.10)" stroke="#f7df1e" stroke-width="1"/><text x="265" y="405" text-anchor="middle" font-size="12" fill="#fde047" font-weight="bold">JavaScript</text></g>
-<g class="pill" style="animation:fadeIn .3s ease 5.1s forwards"><rect x="328" y="388" width="80" height="26" rx="13" fill="rgba(97,218,251,.10)" stroke="#61dafb" stroke-width="1"/><text x="368" y="405" text-anchor="middle" font-size="12" fill="#67e8f9" font-weight="bold">React</text></g>
-<g class="pill" style="animation:fadeIn .3s ease 5.2s forwards"><rect x="48" y="422" width="64" height="26" rx="13" fill="rgba(0,118,206,.14)" stroke="#4a9eda" stroke-width="1"/><text x="80" y="439" text-anchor="middle" font-size="12" fill="#93c5fd" font-weight="bold">SAP</text></g>
-<g class="pill" style="animation:fadeIn .3s ease 5.3s forwards"><rect x="120" y="422" width="64" height="26" rx="13" fill="rgba(139,92,246,.14)" stroke="#8b5cf6" stroke-width="1"/><text x="152" y="439" text-anchor="middle" font-size="12" fill="#c4b5fd" font-weight="bold">SQL</text></g>
-<g class="pill" style="animation:fadeIn .3s ease 5.4s forwards"><rect x="192" y="422" width="130" height="26" rx="13" fill="rgba(255,126,182,.10)" stroke="#ff7eb6" stroke-width="1"/><text x="257" y="439" text-anchor="middle" font-size="12" fill="#f9a8d4" font-weight="bold">Responsive UI</text></g>
+<g class="pill" style="animation:fadeIn .3s ease 4.8s forwards"><rect x="48" y="388" width="90" height="26" rx="13" fill="rgba(56,189,248,.12)" stroke="#38bdf8" stroke-width="1"/><text x="93" y="405" text-anchor="middle" font-size="12" fill="#7dd3fc" font-weight="bold">Python</text></g>
+<g class="pill" style="animation:fadeIn .3s ease 4.9s forwards"><rect x="146" y="388" width="96" height="26" rx="13" fill="rgba(238,76,44,.12)" stroke="#ee4c2c" stroke-width="1"/><text x="194" y="405" text-anchor="middle" font-size="12" fill="#fca5a5" font-weight="bold">PyTorch</text></g>
+<g class="pill" style="animation:fadeIn .3s ease 5s forwards"><rect x="250" y="388" width="114" height="26" rx="13" fill="rgba(255,111,0,.12)" stroke="#ff6f00" stroke-width="1"/><text x="307" y="405" text-anchor="middle" font-size="12" fill="#fdba74" font-weight="bold">TensorFlow</text></g>
+<g class="pill" style="animation:fadeIn .3s ease 5.1s forwards"><rect x="372" y="388" width="68" height="26" rx="13" fill="rgba(0,89,156,.14)" stroke="#00599c" stroke-width="1"/><text x="406" y="405" text-anchor="middle" font-size="12" fill="#93c5fd" font-weight="bold">C++</text></g>
+
+<g class="pill" style="animation:fadeIn .3s ease 5.2s forwards"><rect x="48" y="422" width="70" height="26" rx="13" fill="rgba(237,139,0,.14)" stroke="#ed8b00" stroke-width="1"/><text x="83" y="439" text-anchor="middle" font-size="12" fill="#fde047" font-weight="bold">Java</text></g>
+<g class="pill" style="animation:fadeIn .3s ease 5.3s forwards"><rect x="126" y="422" width="104" height="26" rx="13" fill="rgba(247,223,30,.10)" stroke="#f7df1e" stroke-width="1"/><text x="178" y="439" text-anchor="middle" font-size="12" fill="#fde047" font-weight="bold">JavaScript</text></g>
+<g class="pill" style="animation:fadeIn .3s ease 5.4s forwards"><rect x="238" y="422" width="76" height="26" rx="13" fill="rgba(97,218,251,.10)" stroke="#61dafb" stroke-width="1"/><text x="276" y="439" text-anchor="middle" font-size="12" fill="#67e8f9" font-weight="bold">React</text></g>
+<g class="pill" style="animation:fadeIn .3s ease 5.5s forwards"><rect x="322" y="422" width="78" height="26" rx="13" fill="rgba(68,121,161,.14)" stroke="#4479a1" stroke-width="1"/><text x="361" y="439" text-anchor="middle" font-size="12" fill="#a5f3fc" font-weight="bold">MySQL</text></g>
 
 <!-- About Me -->
 <text class="ii" x="48" y="490" font-size="15" fill="#ff7eb6" font-weight="bold" style="animation:fadeIn .4s ease 5.6s forwards">💗 About Me</text>
