@@ -2,9 +2,9 @@
 
 <!-- ✨ Animated Cyber Banner ✨ -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./samriddhi-banner.svg?v=1">
-  <source media="(prefers-color-scheme: light)" srcset="./samriddhi-banner-light.svg?v=1">
-  <img src="./samriddhi-banner.svg?v=1" alt="Samriddhi — AI &amp; ML Engineer" width="100%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ByteByBuoyant/ByteByBuoyant/main/samriddhi-banner.svg?v=2">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ByteByBuoyant/ByteByBuoyant/main/samriddhi-banner-light.svg?v=2">
+  <img src="https://raw.githubusercontent.com/ByteByBuoyant/ByteByBuoyant/main/samriddhi-banner.svg?v=2" alt="Samriddhi — AI &amp; ML Engineer" width="100%"/>
 </picture>
 
 </div>
@@ -16,20 +16,21 @@
 <td width="38%" align="center" valign="middle">
 
 <!-- 🪪 Swinging Lanyard ID Card (React Bits style, pure SVG) -->
-<img src="./samriddhi-lanyard.svg?v=1" alt="Samriddhi ID badge" width="330"/>
+<img src="https://raw.githubusercontent.com/ByteByBuoyant/ByteByBuoyant/main/samriddhi-lanyard.svg?v=2" alt="Samriddhi ID badge" width="330"/>
 
 </td>
 <td width="62%" valign="middle">
 
-### 🤖 My AI &amp; Software Creations
+### 🌸 My Featured Projects
 
 | 🎌 Project | 💻 Tech | ⭐ |
 |:---|:---:|:---:|
-| [🧠 Neural Vision &amp; AI Classifier](https://github.com/ByteByBuoyant) | `Python` `PyTorch` `OpenCV` | 15 |
-| [⚡ DeepNLP Sentiment Engine](https://github.com/ByteByBuoyant) | `Python` `TensorFlow` `NLP` | 12 |
-| [🌐 Scalable Full-Stack AI Portal](https://github.com/ByteByBuoyant) | `React` `JS` `FastAPI` | 9 |
-| [⚡ High-Performance Algorithm Suite](https://github.com/ByteByBuoyant) | `C++` `Data Structures` | 8 |
-| [📊 Predictive Data Analytics Hub](https://github.com/ByteByBuoyant) | `Pandas` `NumPy` `Scikit-learn` | 5 |
+| [🛍️ E-Commerce Clothing Website](https://github.com/ByteByBuoyant/E-Commerce-Clothing-Website) | `Next.js` `JS` `Sanity` `Stripe` | 1 |
+| [☕ PlayCafe — Game Cafe Portal](https://github.com/ByteByBuoyant/Playcafe) | `React` `Node.js` `MongoDB` | 1 |
+| [🪐 EXO-SOLARA — Planet Detection CNN](https://github.com/ByteByBuoyant/EXO-SOLARA) | `Python` `CNN` `TensorFlow` | 1 |
+| [😴 Drowsiness Detection System](https://github.com/ByteByBuoyant/DROWSINESS) | `TypeScript` `Python` `OpenCV` | 1 |
+| [🌸 Bloomify The Canvas](https://github.com/ByteByBuoyant/Bloomify-The-Canvas) | `JavaScript` `Webcam AI` | 1 |
+| [🌫️ Fogify The Canvas](https://github.com/ByteByBuoyant/Fogify-The-Canvas) | `HTML` `CSS` `JavaScript` | 1 |
 
 <br/>
 
