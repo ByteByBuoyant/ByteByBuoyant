@@ -16,7 +16,7 @@
 <td width="38%" align="center" valign="middle">
 
 <!-- 🪪 Swinging Lanyard ID Card (React Bits style, pure SVG) -->
-<a href="https://github.com/ByteByBuoyant">
+<a href="https://github.com/ByteByBuoyant" target="_blank" rel="noopener noreferrer">
   <img src="./assets/samriddhi-lanyard.svg?v=8000" alt="Samriddhi ID badge" width="330"/>
 </a>
 
@@ -100,16 +100,19 @@
 # 📫 Let's Connect
 
 <p align="center">
-  <a href="mailto:samriddhigururani@gmail.com">
+  <a href="mailto:samriddhigururani@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/EMAIL-E01E5A?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://github.com/ByteByBuoyant">
+  &nbsp;&nbsp;
+  <a href="https://github.com/ByteByBuoyant" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://linkedin.com">
+  &nbsp;&nbsp;
+  <a href="https://linkedin.com/in/samriddhi-gururani-a29078295" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://instagram.com">
+  &nbsp;&nbsp;
+  <a href="https://instagram.com/sam.mzzz06" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
 </p>
