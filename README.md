@@ -97,6 +97,14 @@
 
 <br/>
 
+## LeetCode Stats
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/ByteByCode?theme=dark&font=Mukta&ext=contest&border=0" />
+</p>
+
+---
+
 # 📫 Let's Connect
 
 <p align="center">
